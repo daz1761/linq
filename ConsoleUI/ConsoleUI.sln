@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI.csproj", "{2346C22C-9A3E-40DF-AE98-C4562F520C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "..\FormUI\FormUI.csproj", "{BE4494EF-FE15-4294-ACBD-95166CE92E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLibrary", "LinqLibrary\LinqLibrary.csproj", "{9F9FE121-8BD8-4565-9B65-DDBEED22522E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2346C22C-9A3E-40DF-AE98-C4562F520C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2346C22C-9A3E-40DF-AE98-C4562F520C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2346C22C-9A3E-40DF-AE98-C4562F520C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2346C22C-9A3E-40DF-AE98-C4562F520C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4494EF-FE15-4294-ACBD-95166CE92E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4494EF-FE15-4294-ACBD-95166CE92E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4494EF-FE15-4294-ACBD-95166CE92E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4494EF-FE15-4294-ACBD-95166CE92E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9FE121-8BD8-4565-9B65-DDBEED22522E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9FE121-8BD8-4565-9B65-DDBEED22522E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9FE121-8BD8-4565-9B65-DDBEED22522E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9FE121-8BD8-4565-9B65-DDBEED22522E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B916438-B6ED-43F7-A3F2-E6CF351240B7}
+	EndGlobalSection
+EndGlobal
